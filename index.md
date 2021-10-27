@@ -4,8 +4,17 @@ Hi, I'm Wei Huang
 
 I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney
 
+under the supervision of Professor Ricahrd Xu.
 
-### Markdown
+
+### Education
+
+Ph.D. student in
+Master's Degree in Statistical Physics, 
+
+
+
+### Research Interest
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
