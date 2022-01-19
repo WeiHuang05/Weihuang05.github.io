@@ -25,4 +25,15 @@ Graph Neural Networks
 
 [Reviewer]: I am invited to serve as a reviewer for CVPR- 2022 (CORE A*)
 
+[Paper]: One paper is accepted by NeurIPS 2021
+
+[Reviewer]: I am invited to serve as a Program Committee member for AAAI- 2022 (CORE A*) 
+
+[Reviewer]: I am invited to serve as a reviewer for ICLR- 2022 (CORE A*) 
+
+[Paper]: One paper is accepted by IJCAI 2021
+
+[Reviewer]: I am invited to serve as a reviewer for NeurIPS- 2021 (CORE A*, CCF A) 
+
+[Reviewer]: I am invited to serve as a reviewer for ICML- 2021 (CORE A*, CCF A) 
 
