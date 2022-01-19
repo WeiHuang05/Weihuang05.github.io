@@ -2,9 +2,7 @@
 
 Hi, I'm Wei Huang
 
-I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney
-
-under the supervision of Professor Ricahrd Xu.
+I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney under the supervision of Professor Ricahrd Xu. Wei was a Master student at the department of modern Physics, University of Science and Technology of China, working with Prof. Youjin Deng.
 
 
 ### Education
