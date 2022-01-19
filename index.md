@@ -1,15 +1,13 @@
 ### Greatings! I'm Wei Huang
 
-I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney under the supervision of [A/Prof. Richard Xu](https://www.runoob.com). 
-
-Wei was a Master student at the department of modern Physics, University of Science and Technology of China, working with Prof. Youjin Deng.
+I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney under the supervision of [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, working with [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
 
 ### Education
 
-Ph.D. University of Technology Sydney
+Ph.D. in Deep Learning, University of Technology Sydney
 
-Master's Degree in Statistical Physics, University of Science and Technology of China
+Master in Statistical Physics, University of Science and Technology of China
 
 Bachelor in Physics, University of Science and Technology of China
 
