@@ -14,27 +14,26 @@ Bachelor in Physics, University of Science and Technology of China
 
 ### Research Interest
 
-Deep learning theory
+Deep Learning Theory
 
 Graph Neural Networks
 
 
 ### News
 
+I am invited to serve as a reviewer for ICML-2022 (CORE A*)
 
-I am invited to serve as a reviewer for ICML- 2022 (CORE A*)
+I am invited to serve as a reviewer for CVPR-2022 (CORE A*)
 
-I am invited to serve as a reviewer for CVPR- 2022 (CORE A*)
+One paper is accepted by NeurIPS 2021 (CORE A*), [link](https://arxiv.org/abs/2111.06063)
 
-One paper is accepted by NeurIPS 2021
+I am invited to serve as a Program Committee member for AAAI-2022 (CORE A*) 
 
-I am invited to serve as a Program Committee member for AAAI- 2022 (CORE A*) 
+I am invited to serve as a reviewer for ICLR-2022 (CORE A*) 
 
-I am invited to serve as a reviewer for ICLR- 2022 (CORE A*) 
+One paper is accepted by IJCAI 2021 (CORE A*), [link](https://arxiv.org/abs/2004.05867)
 
-One paper is accepted by IJCAI 2021
+I am invited to serve as a reviewer for NeurIPS-2021 (CORE A*, CCF A) 
 
-I am invited to serve as a reviewer for NeurIPS- 2021 (CORE A*, CCF A) 
-
-I am invited to serve as a reviewer for ICML- 2021 (CORE A*, CCF A) 
+I am invited to serve as a reviewer for ICML-2021 (CORE A*, CCF A) 
 
