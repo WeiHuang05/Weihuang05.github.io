@@ -21,6 +21,8 @@ Graph Neural Networks
 
 ### News
 
+I am invited to serve as a reviewer for ICML- 2022 (CORE A*)
+
 [Reviewer]: I am invited to serve as a reviewer for ICML- 2022 (CORE A*)
 
 [Reviewer]: I am invited to serve as a reviewer for CVPR- 2022 (CORE A*)
