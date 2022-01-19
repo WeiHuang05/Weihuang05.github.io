@@ -1,6 +1,8 @@
 ### Greatings! I'm Wei Huang
 
-Greatings! I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney under the supervision of Professor Ricahrd Xu. Wei was a Master student at the department of modern Physics, University of Science and Technology of China, working with Prof. Youjin Deng.
+I'm a Ph.D. student in Faculty of Engineering and Information Technology, University of Technology Sydney under the supervision of [A/Prof. Richard Xu](https://www.runoob.com). 
+
+Wei was a Master student at the department of modern Physics, University of Science and Technology of China, working with Prof. Youjin Deng.
 
 
 ### Education
