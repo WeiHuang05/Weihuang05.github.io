@@ -5,15 +5,6 @@ I obtained my Ph.D. degree at Faculty of Engineering and Information Technology,
 Please feel free to contact me if you want to cooperate or discuss with me on deep learning theory and its application. Contact information: weihuang.uts@gmail.com.
 
 
-### Education
-
-Ph.D. in Deep Learning, University of Technology Sydney
-
-Master in Statistical Physics, University of Science and Technology of China
-
-Bachelor in Physics, University of Science and Technology of China
-
-
 ### Research Interest
 
 Deep Learning Theory: (1) Neural Tangent Kernel (2) Implicit Regulization/Bias
