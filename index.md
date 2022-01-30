@@ -1,4 +1,6 @@
-## Welcome to Wei Huang's Homepage
+---
+title: Welcome to Wei Huang's Homepage
+---
 
 
 ### Greatings! 
