@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wei Huang"
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   bio              : "I obtained my Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with A/Prof. Richard Xu"
   location         : "Sydney"
   employer         :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : "https://www.zhihu.com/people/huang-wei-17-47-45"
+  weibo            : #"https://www.zhihu.com/people/huang-wei-17-47-45"
   xing             :
   youtube          :
   wikipedia        :
