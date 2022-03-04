@@ -10,5 +10,5 @@ venue: 'IJCAI'
 paperurl: 'https://www.ijcai.org/proceedings/2021/0355.pdf'
 ---
 
-[Download paper here](https://www.ijcai.org/proceedings/2021/0355.pdf)
+[Download paper here](https://arxiv.org/pdf/2004.05867.pdf)
 
