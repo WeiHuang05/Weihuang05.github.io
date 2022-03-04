@@ -6,7 +6,7 @@ excerpt: 'We perform
 theoretical computation on linear dropout networks and a series of experiments on
 dropout networks with different activation functions.'
 date: 2020-08-29
-venue: 'ECAI 2020'
+venue: 'ECAI'
 paperurl: 'https://arxiv.org/abs/1912.09132'
 ---
 
