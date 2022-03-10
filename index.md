@@ -13,10 +13,13 @@ Please feel free to contact me if you want to cooperate or discuss with me on de
 
 ### Research Interest
 
-Deep Learning Theory: (1) Feature Learning (1) Neural Tangent Kernel (2) Implicit Regulization/Bias
+* Theoretically understanding deep learning from expressivity, trainability, and generalization.
+  
+  Feature Learning; Neural Tangent Kernel; Implicit Regularization/Bias
 
-Deep Learning Applications: (1) Neural Architecture Search (2) Graph Neural Networks (3) Database
+* Applications powered by deep learning: 
 
+  Graph Neural Networks; Neural Architecture Search
 
 ### News
 
