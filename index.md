@@ -9,6 +9,8 @@ I am currently a research associate working with [Dr. Xin Cao](https://research.
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, working with [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
+I also keep a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45).
+
 Please feel free to contact me if you want to cooperate or discuss with me on deep learning theory and its application. 
 
 ### Research Interest
@@ -22,6 +24,8 @@ Please feel free to contact me if you want to cooperate or discuss with me on de
   Graph Neural Networks; Neural Architecture Search
 
 ### News
+
+* 03/2022 I am invited to serve as a reviewer for NeurIPS-2022 (CORE A*, CCF A) 
 
 * 01/2022 Two papers are accepted by ICLR 2022 (CORE A*), [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://arxiv.org/abs/2103.03113); [Auto-scaling Vision Transformers without Training](https://openreview.net/pdf?id=H94a1_Pyr-6)
 
