@@ -25,6 +25,10 @@ Please feel free to contact me if you want to cooperate or discuss with me on de
 
 ### News
 
+* 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611) 
+
+* 05/2022 I am invited to serve as a reviewer for ICLR-2023 (CORE A*) 
+
 * 03/2022 I am invited to serve as a reviewer for NeurIPS-2022 (CORE A*, CCF A) 
 
 * 01/2022 Two papers are accepted by ICLR 2022 (CORE A*), [Towards Deepening Graph Neural Networks: A GNTK-based Optimization Perspective](https://arxiv.org/abs/2103.03113); [Auto-scaling Vision Transformers without Training](https://openreview.net/pdf?id=H94a1_Pyr-6)
