@@ -27,6 +27,8 @@ Please feel free to contact me if you want to cooperate or discuss with me on de
 
 * 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611) 
 
+* 08/2022 One paper is accepted by Knowledge-Based Systems journal (IF: 8.664)
+
 * 05/2022 I am invited to serve as a reviewer for ICLR-2023 (CORE A*) 
 
 * 03/2022 I am invited to serve as a reviewer for NeurIPS-2022 (CORE A*, CCF A) 
