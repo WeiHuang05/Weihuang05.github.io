@@ -5,13 +5,13 @@ title: Welcome to Wei Huang's Homepage
 
 ### Greatings! 
 
-I am currently a research associate working with [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW. Before, I was working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
+I am currently research fellow at RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
 
-Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, working with [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
+Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
 I also keep a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45).
 
-Please feel free to contact me if you want to cooperate or discuss with me on deep learning theory and its application. 
+Please feel free to contact me if you want to cooperate or discuss with me (weihuang[dot]uts[at]gmail[dot]com) on deep learning theory and its application. 
 
 ### Research Interest
 
@@ -21,7 +21,7 @@ Please feel free to contact me if you want to cooperate or discuss with me on de
 
 * Applications powered by deep learning: 
 
-  Graph Neural Networks; Neural Architecture Search
+  Graph Neural Networks; Computer Vision (Neural Architecture Search)
 
 ### News
 
