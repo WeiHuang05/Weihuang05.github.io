@@ -22,6 +22,8 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### News
 
+* 11/2022 I arrived in Tokyo, Japan! 
+
 * 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh) 
 
 * 08/2022 One paper is accepted by Knowledge-Based Systems journal (IF: 8.664)
