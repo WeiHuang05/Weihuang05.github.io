@@ -2,9 +2,6 @@
 title: Welcome to Wei Huang's Homepage
 ---
 
-
-### Greatings! 
-
 I am currently research fellow at RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
@@ -25,7 +22,7 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### News
 
-* 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611) 
+* 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh) 
 
 * 08/2022 One paper is accepted by Knowledge-Based Systems journal (IF: 8.664)
 
