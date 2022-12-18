@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Science and Technology of China (USTC), Aug. 2010 - Jun. 2014
+* M.S. in Physics, University of Science and Technology of China (USTC), Aug. 2014 - Jun. 2017
+* Ph.D. in Computer Science, University of Technology Sydney (UTS),  Aug. 2017 - Nov. 2021
 
 Work experience
 ======
@@ -27,14 +27,12 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Mentees
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+I am fortunately co-supervising several Ph.D. students:
+* Zixu Zhao (Ph.D. student, UNSW)
+* Siqing Li (Ph.D. student, UNSW)
+* Yilan Chen (Ph.D. student, UCSD)
 
 Publications
 ======
@@ -56,4 +54,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conference reviewer:  NeurIPS 2021-2022, ICLR 2022-2023, ICML 2021-2022, KDD 2022, CVPR 2022, IJCAI 2022, SIGIR 2022, AISTATS 2022-2023, AAAI 2022 (Meta Reviewer).
+* Journal reviewer: IEEE Transactions on Cybernetics, IEEE TKDE.
