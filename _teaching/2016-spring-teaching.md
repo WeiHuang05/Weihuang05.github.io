@@ -1,7 +1,7 @@
 ---
 title: "Statistical Physics"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching
 venue: " University of Science and Technology of China"
 date: 2016-09-01
