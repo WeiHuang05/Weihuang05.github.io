@@ -10,11 +10,3 @@ location: "Hefei, China"
 
 Teaching assistant of the Thermodynamics and Statistical Physics course for undergraduate students.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
