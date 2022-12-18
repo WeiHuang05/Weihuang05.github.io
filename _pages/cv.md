@@ -17,15 +17,13 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June. 2022-Present: Postdoctoral Researcher
+  * RIEKN AIP
+  * Supervisor: Taiji Suzuki
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2022-Present: Visiting Researcher
+  * Mohamed bin Zayed University of Artificial Intelligence
+  * Supervisor: Zhiqiang Xu
   
 Mentees
 ======
