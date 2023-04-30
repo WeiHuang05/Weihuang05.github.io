@@ -2,7 +2,7 @@
 title: Welcome to Wei Huang's Homepage
 ---
 
-I am currently research fellow at RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
+I am currently research fellow at Deep Learning Theory Team of RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
@@ -12,15 +12,22 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### Research Interest
 
+* Theoreical understanding of LLM
+
 * Theoretically understanding deep learning from expressivity, trainability, and generalization.
   
-  Feature Learning; Neural Tangent Kernel; Implicit Regularization/Bias
+  Feature Learning; Implicit Regularization/Bias; Neural Tangent Kernel;
 
 * Applications powered by deep learning: 
 
   Graph Neural Networks; Computer Vision (Neural Architecture Search)
+  
+  
 
 ### News
+
+* 03/2023 One paper is accepted by ICLR 2023 workshop, [Towards Understanding Feature Learning in Out-of-Distribution Generalization
+](https://arxiv.org/abs/2304.11327)
 
 * 11/2022 I arrived in Tokyo, Japan! 
 
