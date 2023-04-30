@@ -12,7 +12,7 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### Research Interest
 
-* Theoreical understanding of LLM
+* Theoretical understanding of LLM
 
 * Theoretically understanding deep learning from expressivity, trainability, and generalization.
   
