@@ -26,6 +26,8 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### News
 
+* 05/2023 One paper is accepted by AutoML 2023.
+
 * 03/2023 One paper is accepted by ICLR 2023 workshop, [Towards Understanding Feature Learning in Out-of-Distribution Generalization
 ](https://arxiv.org/abs/2304.11327)
 
