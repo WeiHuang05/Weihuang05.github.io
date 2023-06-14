@@ -26,6 +26,8 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### News
 
+* 05/2023 One paper is accepted by Transactions on Machine Learning Research, [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection](https://openreview.net/pdf?id=nEX2q5B2RQ)
+
 * 05/2023 One paper is accepted by AutoML 2023.
 
 * 03/2023 One paper is accepted by ICLR 2023 workshop, [Towards Understanding Feature Learning in Out-of-Distribution Generalization
