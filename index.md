@@ -26,9 +26,11 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 ### News
 
+* 06/2023 One paper is accepted by High-dimensional Learning Dynamics Workshop (ICML) 2023, [Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective]()
+
 * 05/2023 One paper is accepted by Transactions on Machine Learning Research, [Analyzing Deep PAC-Bayesian Learning with Neural Tangent Kernel: Convergence, Analytic Generalization Bound, and Efficient Hyperparameter Selection](https://openreview.net/pdf?id=nEX2q5B2RQ)
 
-* 05/2023 One paper is accepted by AutoML 2023. [No Free Lunch in Neural Architectures? A Joint Analysis of Expressivity, Convergence, and Generalization]
+* 05/2023 One paper is accepted by AutoML 2023. [No Free Lunch in Neural Architectures? A Joint Analysis of Expressivity, Convergence, and Generalization]()
 
 * 03/2023 One paper is accepted by ICLR 2023 workshop, [Towards Understanding Feature Learning in Out-of-Distribution Generalization
 ](https://arxiv.org/abs/2304.11327)
