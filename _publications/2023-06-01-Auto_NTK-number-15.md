@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-06-01-Auto_NTK-number-15
 excerpt: ''
 date: 2023-06-01
-venue: 'Auto-ML 2023'
+venue: 'Auto-ML'
 paperurl: ''
 ---
 
