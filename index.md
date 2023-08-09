@@ -63,5 +63,4 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
 
 * 12/2020 I am invited to serve as a reviewer for ICML-2021 (CORE A*, CCF A)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2P20-QcaTNFo4oRUSbUIDNvbba1-oYtex2xzmbuuEqU&cl=ffffff&w=a"></script>
-
+<a href="https://clustrmaps.com/site/1bvzb"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2P20-QcaTNFo4oRUSbUIDNvbba1-oYtex2xzmbuuEqU&cl=ffffff" /></a>
