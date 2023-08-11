@@ -10,9 +10,9 @@ I also keep a comprehensive and popular blog on the latest Deep Learning Theory 
 
 Please feel free to contact me if you want to cooperate or discuss with me (weihuang[dot]uts[at]gmail[dot]com) on deep learning theory and its application. 
 
-### Research Interest
+My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/index.html), Hongo Campus. If you would like to reach out, please don't hesitate to do so.
 
-* Theoretical understanding of LLM
+### Research Interest
 
 * Theoretically understanding deep learning from expressivity, trainability, and generalization.
   
@@ -25,6 +25,8 @@ Please feel free to contact me if you want to cooperate or discuss with me (weih
   
 
 ### News
+
+* 07/2023 I had the privilege of giving a contributed talk at the [ICML 2023 workshop on High-Dimensional Learning Dynamics](https://sites.google.com/view/hidimlearning/home?authuser=0) in Honolulu, Hawaii. It was a great experience sharing my [work](https://arxiv.org/abs/2306.13926) with researchers. Please find my [slides](https://github.com/WeiHuang05/Weihuang05.github.io/blob/main/files/ICML_HiLD_Graph_feature_Weihuang.pdf) here.
 
 * 06/2023 One paper is accepted by High-dimensional Learning Dynamics Workshop (ICML) 2023, [Graph Neural Networks Provably Benefit from Structural Information: A Feature Learning Perspective](https://arxiv.org/abs/2306.13926)
 
