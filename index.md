@@ -2,11 +2,11 @@
 title: Welcome to Wei Huang's Homepage
 ---
 
-I am currently research fellow at Deep Learning Theory Team of RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
+I am currently a research fellow at Deep Learning Theory Team of RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [A/Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
-I also keep a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45).
+I keep a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45).
 
 Please feel free to contact me if you want to cooperate or discuss with me (weihuang[dot]uts[at]gmail[dot]com) on deep learning theory and its application. 
 
@@ -25,6 +25,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
   
 
 ### News
+
+
+* 08/2023 I will be attending [ICIAM 2023](https://iciam2023.org/registered_data?id=00088) at Waseda University, Tokyo. Feel free to have a chat if you're there.
 
 * 07/2023 I had the privilege of giving a contributed talk at the [ICML 2023 workshop on High-Dimensional Learning Dynamics](https://sites.google.com/view/hidimlearning/home?authuser=0) in Honolulu, Hawaii. It was a great experience sharing my [work](https://arxiv.org/abs/2306.13926) with researchers. Please find my [slides](https://github.com/WeiHuang05/Weihuang05.github.io/blob/main/files/ICML_HiLD_Graph_feature_Weihuang.pdf) here.
 
