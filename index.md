@@ -26,6 +26,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 09/2023 One paper is accepted by Transactions on Machine Learning Research, [Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph](https://openreview.net/pdf?id=244KePn09i)
 
 * 08/2023 I will be attending [ICIAM 2023](https://iciam2023.org/registered_data?id=00088) at Waseda University, Tokyo. Feel free to have a chat if you're there.
 
