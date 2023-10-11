@@ -26,6 +26,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 10/2023 I will be attending [IBIS2023](https://ibisml.org/ibis2023/cfp/) from 29/10/2023 to 01/11/2023 in Kitakyushu. Feel free have a chat if you're there.
+
 * 09/2023 Three papers are accepted by NeurIPS 2023 (CORE A*, CCF A), [Understanding and Improving Feature Learning for Out-of-Distribution Generalization](https://arxiv.org/abs/2304.11327); Analyzing Generalization of Neural Networks through Loss Path Kernels;  Fed-CO_2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning; 
 
 * 08/2023 One paper is accepted by Transactions on Machine Learning Research, [Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph](https://openreview.net/pdf?id=244KePn09i)
