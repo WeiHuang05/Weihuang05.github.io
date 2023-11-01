@@ -20,7 +20,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * Applications powered by deep learning: 
 
-  Graph Neural Networks; Computer Vision (Neural Architecture Search)
+  Large Foundation Model, Graph Neural Networks; Computer Vision (Neural Architecture Search)
   
   
 
