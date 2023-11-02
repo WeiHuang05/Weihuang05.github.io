@@ -18,9 +18,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
   
   Feature Learning; Implicit Regularization/Bias; Neural Tangent Kernel;
 
-* Applications powered by deep learning: 
+* Applications powered by deep learning theory: 
 
-  Large Foundation Model, Graph Neural Networks; Computer Vision (Neural Architecture Search)
+  Large Foundation Model, Graph Neural Networks; Computer Vision 
   
   
 
