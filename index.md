@@ -27,7 +27,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 ### News
 
 
-* 12/2023 I will be attending [NeurIPS](https://nips.cc/) from 10/12/2023 to 17/12/2023 at the New Orleans Ernest N. Morial Convention Center. Feel free have a chat if you're there.
+* 12/2023 I will be attending [NeurIPS 2023](https://nips.cc/) from 10/12/2023 to 17/12/2023 at the New Orleans Ernest N. Morial Convention Center. Feel free have a chat if you're there.
 
 * 10/2023 I will be attending [IBIS2023](https://ibisml.org/ibis2023/cfp/) from 29/10/2023 to 01/11/2023 in Kitakyushu. Feel free have a chat if you're there.
 
