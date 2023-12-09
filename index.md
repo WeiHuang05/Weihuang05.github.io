@@ -29,6 +29,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 12/2023 I will be attending [NeurIPS 2023](https://nips.cc/) from 10/12/2023 to 17/12/2023 at the New Orleans Ernest N. Morial Convention Center. Feel free have a chat if you're there.
 
+* 12/2023 One paper is accepted by IEEE Transactions on Image Processing (CORE A*, CCF A), [DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/document/10348505)
+
 * 10/2023 I will be attending [IBIS2023](https://ibisml.org/ibis2023/cfp/) from 29/10/2023 to 01/11/2023 in Kitakyushu. Feel free have a chat if you're there.
 
 * 09/2023 Three papers are accepted by NeurIPS 2023 (CORE A*, CCF A), [Understanding and Improving Feature Learning for Out-of-Distribution Generalization](https://arxiv.org/abs/2304.11327); Analyzing Generalization of Neural Networks through Loss Path Kernels;  Fed-CO_2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning; 
