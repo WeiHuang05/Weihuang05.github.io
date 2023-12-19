@@ -2,7 +2,7 @@
 title: Welcome to Wei Huang's Homepage
 ---
 
-I am currently a research fellow at Deep Learning Theory Team of RIKEN AIP, working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
+I am an incoming Research Scientist in the Deep Learning Theory Team at RIKEN Center for Advanced Intelligence Project (AIP), working with [A/Prof. Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/). Before, I was working as a research associate advised by [Dr. Xin Cao](https://research.unsw.edu.au/people/dr-xin-cao) at UNSW and working with [A/Prof. Jie Yin](https://www.sydney.edu.au/business/about/our-people/academic-staff/jie-yin.html) on graph neural network at USYD.
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
