@@ -27,6 +27,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 ### News
 
 
+* 01/2024 Two papers are accepted by ICLR 2024 (CORE A*), Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory; Graph Lottery Ticket Automated 
+
 * 12/2023 I will be attending [NeurIPS 2023](https://nips.cc/) from 10/12/2023 to 17/12/2023 at the New Orleans Ernest N. Morial Convention Center. Feel free have a chat if you're there.
 
 * 12/2023 One paper is accepted by IEEE Transactions on Image Processing (CORE A*, CCF A), [DMMG: Dual Min-Max Games for Self-Supervised Skeleton-Based Action Recognition](https://ieeexplore.ieee.org/document/10348505)
