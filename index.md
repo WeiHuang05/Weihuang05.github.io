@@ -26,6 +26,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 02/2024 One paper is accepted by CVPR 2024 (CORE A*, CCF A), Global and Local Prompts Cooperation via Optimal Transport for Federated Learning 
 
 * 01/2024 Two papers are accepted by ICLR 2024 (CORE A*), Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory; Graph Lottery Ticket Automated 
 
@@ -35,7 +36,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 10/2023 I will be attending [IBIS2023](https://ibisml.org/ibis2023/cfp/) from 29/10/2023 to 01/11/2023 in Kitakyushu. Feel free have a chat if you're there.
 
-* 09/2023 Three papers are accepted by NeurIPS 2023 (CORE A*, CCF A), [Understanding and Improving Feature Learning for Out-of-Distribution Generalization](https://arxiv.org/abs/2304.11327); Analyzing Generalization of Neural Networks through Loss Path Kernels;  Fed-CO_2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning; 
+* 09/2023 Three papers are accepted by NeurIPS 2023 (CORE A*, CCF A), [Understanding and Improving Feature Learning for Out-of-Distribution Generalization](https://arxiv.org/abs/2304.11327); [Analyzing Generalization of Neural Networks through Loss Path Kernels](https://openreview.net/pdf?id=8Ba7VJ7xiM);  [Fed-CO_2: Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2312.13923); 
 
 * 08/2023 One paper is accepted by Transactions on Machine Learning Research, [Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph](https://openreview.net/pdf?id=244KePn09i)
 
@@ -54,7 +55,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 11/2022 I arrived in Tokyo, Japan! 
 
-* 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh) 
+* 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh); [Weighted Mutual Learning with Diversity-Driven Model Compression](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b25c000967af9036fb9b207b198a626-Paper-Conference.pdf) 
 
 * 08/2022 One paper is accepted by Knowledge-Based Systems journal (IF: 8.664)
 
