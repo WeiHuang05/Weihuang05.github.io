@@ -30,7 +30,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 02/2024 One paper is accepted by CVPR 2024 (CORE A*, CCF A), Global and Local Prompts Cooperation via Optimal Transport for Federated Learning 
 
-* 01/2024 Two papers are accepted by ICLR 2024 (CORE A*), Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory; Graph Lottery Ticket Automated 
+* 01/2024 Two papers are accepted by ICLR 2024 (CORE A*), [Understanding Convergence and Generalization in Federated Learning through Feature Learning Theory](https://openreview.net/forum?id=EcetCr4trp); [Graph Lottery Ticket Automated](https://openreview.net/forum?id=nmBjBZoySX) 
 
 * 12/2023 I will be attending [NeurIPS 2023](https://nips.cc/) from 10/12/2023 to 17/12/2023 at the New Orleans Ernest N. Morial Convention Center. Feel free have a chat if you're there.
 
