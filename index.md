@@ -25,7 +25,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track. Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples; Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance
+* 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track, The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs.
 
 * 05/2024 I will be attending [ICLR 2024](https://iclr.cc/) from 06/05/2024 to 12/05/2024 in Vienna. Feel free have a chat if you're there.
 
