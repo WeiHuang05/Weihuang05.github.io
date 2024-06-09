@@ -25,11 +25,13 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 06/2024 One paper is accepted by Information Sciences (IF: 8.1), [Neural Causal Graph Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0020025524007862)
+
 * 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track, The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs.
 
 * 05/2024 I will be attending [ICLR 2024](https://iclr.cc/) from 06/05/2024 to 12/05/2024 in Vienna. Feel free have a chat if you're there.
 
-* 05/2024 Two papers are accepted by ICML 2024 (CORE A*, CCF A). Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance; Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples
+* 05/2024 Two papers are accepted by ICML 2024 (CORE A*, CCF A). Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance; [Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples](https://arxiv.org/pdf/2406.03944v1)
 
 * 02/2024 One paper is accepted by CVPR 2024 (CORE A*, CCF A), [Global and Local Prompts Cooperation via Optimal Transport for Federated Learning](https://arxiv.org/abs/2403.00041) 
 
@@ -62,7 +64,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 09/2022 Four papers are accepted by NeurIPS 2022 (CORE A*, CCF A), [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh); [Weighted Mutual Learning with Diversity-Driven Model Compression](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b25c000967af9036fb9b207b198a626-Paper-Conference.pdf) 
 
-* 08/2022 One paper is accepted by Knowledge-Based Systems journal (IF: 8.664)
+* 08/2022 One paper [Pruning graph neural networks by evaluating edge properties](https://www.sciencedirect.com/science/article/pii/S0950705122009406) is accepted by Knowledge-Based Systems journal (IF: 8.664)
 
 * 05/2022 I am invited to serve as a reviewer for ICLR-2023 (CORE A*) 
 
