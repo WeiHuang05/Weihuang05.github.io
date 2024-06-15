@@ -31,7 +31,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 05/2024 I will be attending [ICLR 2024](https://iclr.cc/) from 06/05/2024 to 12/05/2024 in Vienna. Feel free have a chat if you're there.
 
-* 05/2024 Two papers are accepted by ICML 2024 (CORE A*, CCF A). Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance; [Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples](https://arxiv.org/pdf/2406.03944v1)
+* 05/2024 Two papers are accepted by ICML 2024 (CORE A*, CCF A). [Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance](https://openreview.net/forum?id=2NUGeV64y2); [Provably Neural Active Learning Succeeds via Prioritizing Perplexing Samples](https://arxiv.org/pdf/2406.03944v1)
 
 * 02/2024 One paper is accepted by CVPR 2024 (CORE A*, CCF A), [Global and Local Prompts Cooperation via Optimal Transport for Federated Learning](https://arxiv.org/abs/2403.00041) 
 
