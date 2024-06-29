@@ -27,7 +27,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 06/2024 One paper is accepted by Information Sciences (IF: 8.1), [Neural Causal Graph Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0020025524007862)
 
-* 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track, The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs.
+* 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track, [The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs](https://arxiv.org/abs/2406.12539).
 
 * 05/2024 I will be attending [ICLR 2024](https://iclr.cc/) from 06/05/2024 to 12/05/2024 in Vienna. Feel free have a chat if you're there.
 
