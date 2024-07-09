@@ -17,11 +17,15 @@ Education
 
 Work experience
 ======
-* June. 2022-Present: Postdoctoral Researcher
+* Feb. 2024-Present: Research Scientist
   * RIEKN AIP
   * Supervisor: Taiji Suzuki
 
-* Nov. 2022-Present: Visiting Researcher
+* June. 2022-Jan 2024: Postdoctoral Researcher
+  * RIEKN AIP
+  * Supervisor: Taiji Suzuki
+
+* Nov. 2022-Feb. 2023: Visiting Researcher
   * Mohamed bin Zayed University of Artificial Intelligence
   * Supervisor: Zhiqiang Xu
   
