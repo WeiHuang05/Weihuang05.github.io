@@ -6,7 +6,7 @@ I am a Research Scientist in the [Deep Learning Theory Team](https://www.riken.j
 
 Dr. Huang obtained his Ph.D. degree at Faculty of Engineering and Information Technology, University of Technology Sydney working with [Prof. Richard Xu](https://profiles.uts.edu.au/YiDa.Xu). I obtained my Master degree at the department of modern Physics, University of Science and Technology of China, supervised by [Prof. Youjin Deng](http://staff.ustc.edu.cn/~yjdeng/).
 
-I keep a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45).
+I maintain a comprehensive and popular blog on the latest Deep Learning Theory works on [Zhihu](https://www.zhihu.com/people/huang-wei-17-47-45) and a feature learning theory reading list on [Github](https://github.com/WeiHuang05/Awesome-Feature-Learning-in-Deep-Learning-Thoery).
 
 Please feel free to contact me if you want to cooperate or discuss with me (weihuang[dot]uts[at]gmail[dot]com) on deep learning theory and its application. 
 
@@ -25,7 +25,6 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* 06/2024 One paper is accepted by Information Sciences (IF: 8.1), [Neural Causal Graph Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0020025524007862)
 
 * 05/2024 One paper is accepted by KDD 2024 (CORE A*, CCF A) Research Track, [The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs](https://arxiv.org/abs/2406.12539).
 
