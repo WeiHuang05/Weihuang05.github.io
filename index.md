@@ -63,7 +63,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 09/2022 Four papers are accepted by NeurIPS 2022, [Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://arxiv.org/abs/2205.05662); [Deep Active Learning by Leveraging Training Dynamics](https://arxiv.org/abs/2110.08611); [Interpreting Operation Selection in Differentiable Architecture Search: A Perspective from Influence-Directed Explanations](https://openreview.net/forum?id=MPARWTuMiPh); [Weighted Mutual Learning with Diversity-Driven Model Compression](https://proceedings.neurips.cc/paper_files/paper/2022/file/4b25c000967af9036fb9b207b198a626-Paper-Conference.pdf) 
 
-* 08/2022 One paper [Pruning graph neural networks by evaluating edge properties](https://www.sciencedirect.com/science/article/pii/S0950705122009406) is accepted by Knowledge-Based Systems journal (IF: 8.664)
+* 08/2022 One paper [Pruning graph neural networks by evaluating edge properties](https://www.sciencedirect.com/science/article/pii/S0950705122009406) is accepted by Knowledge-Based Systems journal 
 
 * 05/2022 I am invited to serve as a reviewer for ICLR-2023 
 
