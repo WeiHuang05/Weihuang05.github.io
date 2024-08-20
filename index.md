@@ -75,7 +75,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 11/2021 I am invited to serve as a reviewer for CVPR-2022 
 
-* 09/2021 One paper is accepted by NeurIPS 2021 (CORE A*), [On the Equivalence between Neural Network and Support Vector Machine](https://arxiv.org/abs/2111.06063)
+* 09/2021 One paper is accepted by NeurIPS 2021, [On the Equivalence between Neural Network and Support Vector Machine](https://arxiv.org/abs/2111.06063)
 
 * 07/2021 I am invited to serve as a Senior Program Committee member for AAAI-2022 
 
