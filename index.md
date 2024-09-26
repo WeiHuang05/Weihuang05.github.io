@@ -26,6 +26,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 ### News
 
 
+* 09/2024 Seven papers are accepted by NeurIPS 2024, On the Comparison between Multi-modal and Single-modal Contrastive Learning; Provable and Efficient Dataset Distillation for Kernel Ridge Regression; Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method; Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization; Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning; On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability; SLTrain: a sparse plus low rank approach for parameter and memory efficient pretraining
+
 * 05/2024 One paper is accepted by KDD 2024 Research Track, [The Heterophily Snowflake Hypothesis: Training and Empowering GNN for Heterophilic Graphs](https://arxiv.org/abs/2406.12539).
 
 * 05/2024 I will be attending [ICLR 2024](https://iclr.cc/) from 06/05/2024 to 12/05/2024 in Vienna. Feel free have a chat if you're there.
