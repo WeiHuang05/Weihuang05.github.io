@@ -25,6 +25,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 12/2024 We are organizing a workshop [Deep Generative Model in Machine Learning: Theory, Principle and Efficacy](https://delta-workshop.github.io/) at ICLR 2025! More details will come. Stay tuned!
 
 * 09/2024 Seven papers are accepted by NeurIPS 2024, On the Comparison between Multi-modal and Single-modal Contrastive Learning; Provable and Efficient Dataset Distillation for Kernel Ridge Regression; [Federated Learning from Vision-Language Foundation Models: Theoretical Analysis and Method](https://arxiv.org/abs/2409.19610v1); [Unveil Benign Overfitting for Transformer in Vision: Training Dynamics, Convergence, and Generalization](https://arxiv.org/abs/2409.19345); Provably Transformers Harness Multi-Concept Word Semantics for Efficient In-Context Learning; [On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability](https://arxiv.org/abs/2405.16845); [SLTrain: a sparse plus low rank approach for parameter and memory efficient pretraining](https://arxiv.org/abs/2406.02214)
 
