@@ -6,7 +6,7 @@ excerpt: ' In this paper, by exploring the connection between the generalization
 and show that maximizing the training dynamics leads to better generalization performance. '
 date: 2022-12-03
 venue: 'NeurIPS'
-paperurl: 'https://arxiv.org/abs/2110.08611'
+paperurl: 'https://openreview.net/pdf?id=aJ5xc1QB7EX'
 ---
 
-[Download paper here](https://arxiv.org/abs/2110.08611)
+[Download paper here](https://openreview.net/pdf?id=aJ5xc1QB7EX)
