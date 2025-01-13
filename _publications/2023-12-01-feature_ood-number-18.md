@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Improving Feature Learning for Out-of-Distribution Generalization."
 collection: publications
-permalink: /publication/2023-12-01-fed_co2-number-16
+permalink: /publication/2023-12-01-feature_ood-number-18
 excerpt: 'We propose Feature Augmented Training (FeAT), to enforce the model to learn richer features
 ready for OOD generalization'
 date: 2023-12-01
