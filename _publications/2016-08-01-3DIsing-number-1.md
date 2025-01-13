@@ -8,5 +8,5 @@ venue: 'Computer Physics Communications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010465516300960'
 ---
 
-[Download paper here](https://reader.elsevier.com/reader/sd/pii/S0010465516300960?token=11F4B36DC49C55B900C791E33278C38E66C0EBDCEF68774D7203D02D81470F4B01C492FF8E008E786717FF26FB361C64&originRegion=us-east-1&originCreation=20220304050140)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0010465516300960)
 
