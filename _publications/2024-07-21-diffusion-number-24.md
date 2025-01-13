@@ -1,7 +1,7 @@
 ---
 title: "Diffusion Models Demand Contrastive Guidance for Adversarial Purification to Advance."
 collection: publications
-permalink: /publication/2024-07-21-diffusion-number-23
+permalink: /publication/2024-07-21-diffusion-number-24
 excerpt: 'In this work, we propose to guide diffusion models for adversarial purification using contrastive
 guidance.'
 date: 2024-07-23
