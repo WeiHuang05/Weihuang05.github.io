@@ -5,7 +5,7 @@ permalink: /publication/2023-06-01-Auto_NTK-number-15
 excerpt: ''
 date: 2023-06-01
 venue: 'Auto-ML'
-paperurl: ''
+paperurl: 'https://openreview.net/pdf?id=EMys3eIDJ2'
 ---
 
-[Download paper here]()
+[Download paper here](https://openreview.net/pdf?id=EMys3eIDJ2)
