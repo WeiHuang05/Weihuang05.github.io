@@ -25,7 +25,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* 01/2025 Our workshop on deep generative models at ICLR 2025 is now accepting submissions! We are also seeking reviewers to join us. For details, visit https://delta-workshop.github.io/ and fill out the reviewer form here:[Reviewer Application Form](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/edit).
+* 01/2025 Our workshop on deep generative models at ICLR 2025 is now accepting submissions! We are also seeking reviewers to join us. For details, visit [our website](https://delta-workshop.github.io/) and fill out the reviewer form here: [Reviewer Application Form](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/edit).
 
 * 12/2024 One paper is accepted by Pattern Recognition, [Negatively correlated ensemble against transfer adversarial attacks](https://www.sciencedirect.com/science/article/pii/S0031320324009063.) 
 
