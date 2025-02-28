@@ -25,6 +25,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+
+* 02/2025 Honored to receive the KAUST 2025 Rising Star and CPAL 2025 Rising Star awards! Grateful for the recognition and the support from my collaborators!
+
 * 01/2025 Our workshop on deep generative models at ICLR 2025 is now accepting submissions! We are also seeking reviewers to join us. For details, visit [our website](https://delta-workshop.github.io/) and fill out the reviewer form here: [Reviewer Application Form](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/edit).
 
 * 01/2025 Two Papers are accepted by ICLR 2025, On the feature learning in diffusion models, On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent.
