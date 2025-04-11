@@ -25,6 +25,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 04/2025 I will serve as an Area Chair for NeurIPS 2025.
+
 * 03/2025 Our team is honored to invite Prof. Difan Zou to give an oral presentation on Transformers at Nihonbashi Openspace and online. [Event details](https://aip.riken.jp/events/event_181888/)
 
 * 02/2025 Honored to receive the [KAUST 2025 Rising Star](https://www.kaust.edu.sa/en/news/rising-stars-in-ai-symposium-2025) and [CPAL 2025 Rising Star](https://cpal.cc/rising_stars_guidelines/) awards.
