@@ -25,6 +25,8 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 05/2025 Our [DeLTa Workshop](https://delta-workshop.github.io/) at ICLR 2025 was a fantastic success—thank you to all who joined us! If you missed it or want to revisit the talks, you can watch the [full recording here](https://iclr.cc/virtual/2025/workshop/23972).
+
 * 04/2025 Our team is honored to invite Prof. Qing Qu to give a seminar on Diffusion Models. [Event details](https://aip.riken.jp/events/event_182864/)
 
 * 04/2025 I will serve as an Area Chair for NeurIPS 2025.
