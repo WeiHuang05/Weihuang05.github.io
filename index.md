@@ -25,6 +25,12 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+
+
+* 05/2025 Our team is honored to invite Prof. Wuyang Chen to give an oral presentation on Building Machines That Understand the Physics. [Event details](https://aip.riken.jp/events/event_184833/)
+
+* 05/2025 Papers are accepted by ICML 2025, [The Role of Label Noise in the Feature Learning Process](https://arxiv.org/pdf/2505.18909), [Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?](https://arxiv.org/pdf/2502.04725)
+
 * 05/2025 Honored to be recognized as an [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers). Grateful for the opportunity to contribute to the community.
 
 * 05/2025 Our [DeLTa Workshop](https://delta-workshop.github.io/) at ICLR 2025 was a fantastic success—thank you to all who joined us! If you missed it or want to revisit the talks, you can watch the [full recording here](https://iclr.cc/virtual/2025/workshop/23972).
