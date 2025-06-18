@@ -25,7 +25,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* 06/2025 We are organizing the [Deep Learning Theory 2025 Workshop](https://delta-workshop.github.io/deep-learning-theory-2025/#home) at Nihonbashi Tokyo; you’re welcome to register to attend in person or online.
+* 06/2025 We are organizing the [Deep Learning Theory 2025 Workshop](https://delta-workshop.github.io/deep-learning-theory-2025/#home) in Nihonbashi, Tokyo, from 5 to 7 August 2025; you’re welcome to register to attend in person or online.
 
 * 05/2025 Our team is honored to invite Prof. Wuyang Chen to give an oral presentation on Building Machines That Understand the Physics. [Event details](https://aip.riken.jp/events/event_184833/)
 
