@@ -39,9 +39,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 01/2025 Our workshop on deep generative models at ICLR 2025 is now accepting submissions! We are also seeking reviewers to join us. For details, visit [our website](https://delta-workshop.github.io/) and fill out the reviewer form here: [Reviewer Application Form](https://docs.google.com/forms/d/1_A6UNjw0jBj-4Qk-huqyv8GglgD0KWP1i9UXeopmjCs/edit).
 
-* 01/2025 Two Papers are accepted by ICLR 2025, On the feature learning in diffusion models, On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent.
+* 01/2025 Two Papers are accepted by ICLR 2025, [On the feature learning in diffusion models](https://openreview.net/pdf?id=JjdU6ysnCr), [On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent](https://openreview.net/pdf?id=97rOQDPmk2).
 
-* 01/2025 One paper is accepted by AISTATS 2025, Quantifying the Optimization and Generalization Advantages of Graph Neural Networks Over Multilayer Perceptrons.
+* 01/2025 One paper is accepted by AISTATS 2025, [Quantifying the Optimization and Generalization Advantages of Graph Neural Networks Over Multilayer Perceptrons](https://arxiv.org/abs/2306.13926v3).
 
 * 12/2024 One paper is accepted by Pattern Recognition, [Negatively correlated ensemble against transfer adversarial attacks](https://www.sciencedirect.com/science/article/pii/S0031320324009063.) 
 
