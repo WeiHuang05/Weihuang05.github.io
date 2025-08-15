@@ -14,9 +14,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### Research Interest
 
-* Theoretically understanding deep learning and foundation modals from expressivity, trainability, and generalization.
+* Theoretically understanding foundation modals from deep learning theory, statistical physics, and statistical learning perspectives
   
-  Feature Learning; Implicit Regularization/Bias; Neural Tangent Kernel;
+  Feature Learning; Implicit Regularization/Bias; Neural Tangent Kernel 
 
 * Applications powered by deep learning theory: 
 
@@ -24,6 +24,10 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
   
 
 ### News
+
+* Our team is honored to invite Prof. Yan Shuo Tan (National University of Singapore) to give an oral presentation on Statistical-Computational Trade-offs for Recursive Adaptive Partitioning Estimators. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/187040)
+
+* 07/2025 I will serve as a Senior Program Committee for AAAI 2026.
 
 * 06/2025 We are organizing the [Deep Learning Theory 2025 Workshop](https://delta-workshop.github.io/deep-learning-theory-2025/#home) in Nihonbashi, Tokyo, from 5 to 7 August 2025; you’re welcome to register to attend in person or online.
 
