@@ -25,7 +25,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* Our team is honored to invite Prof. Yan Shuo Tan (National University of Singapore) to give an oral presentation on Statistical-Computational Trade-offs for Recursive Adaptive Partitioning Estimators. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/187040)
+* 08/2025 Our team is honored to invite Prof. Yan Shuo Tan (National University of Singapore) to give an oral presentation on Statistical-Computational Trade-offs for Recursive Adaptive Partitioning Estimators. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/187040)
 
 * 07/2025 I will serve as a Senior Program Committee for AAAI 2026.
 
