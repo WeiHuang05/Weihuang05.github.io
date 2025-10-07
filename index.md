@@ -23,20 +23,20 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
   Foundation Models, Graph Neural Networks; Computer Vision
 
 
-<div style="background-color: #d6f0ee; border-radius: 8px; padding: 1em 1.2em; margin: 1.5em 0;">
-  <p style="margin: 0; font-weight: 700; font-size: 1.1em;">
-    🔍 For students
+<div style="background-color: #e8f1fb; border-left: 5px solid #3b82f6; border-radius: 6px; padding: 1em 1.5em; margin: 1.5em 0;">
+  <p style="margin: 0; font-weight: 700; font-size: 1.1em; color: #1e3a8a;">
+    🎓 For prospective students
   </p>
-  <p style="margin-top: 0.5em; line-height: 1.6;">
-    I'm open to accepting research assistant and intern students at 
-    <a href="https://www.ism.ac.jp/index_e.html" target="_blank" style="color: #007a00; text-decoration: underline;">ISM</a> 
+  <p style="margin-top: 0.5em; line-height: 1.6; color: #1e293b;">
+    I welcome motivated research assistant and intern students at 
+    <a href="https://www.ism.ac.jp/index_e.html" target="_blank" style="color: #2563eb; text-decoration: underline;">ISM</a> 
     and 
-    <a href="https://aip.riken.jp/" target="_blank" style="color: #007a00; text-decoration: underline;">RIKEN AIP</a>.
-    My research focuses on understanding large (foundation) models, and I welcome students with backgrounds in 
-    machine learning, statistical physics, or mathematics.
-    Feel free to reach out to me.
+    <a href="https://aip.riken.jp/" target="_blank" style="color: #2563eb; text-decoration: underline;">RIKEN AIP</a>.
+    My research aims to understand the principles behind large (foundation) models.
+    Students with backgrounds in machine learning, statistical physics, or mathematics are especially encouraged to reach out.
   </p>
 </div>
+
 
   
   
