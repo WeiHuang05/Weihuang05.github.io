@@ -20,10 +20,31 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * Applications powered by deep learning theory: 
 
-  Foundation Models, Graph Neural Networks; Computer Vision 
+  Foundation Models, Graph Neural Networks; Computer Vision
+
+
+<div style="background-color: #d6f0ee; border-radius: 8px; padding: 1em 1.2em; margin: 1.5em 0;">
+  <p style="margin: 0; font-weight: 700; font-size: 1.1em;">
+    🔍 For students
+  </p>
+  <p style="margin-top: 0.5em; line-height: 1.6;">
+    I'm open to accepting research assistant and intern students at 
+    <a href="https://www.ism.ac.jp/index_e.html" target="_blank" style="color: #007a00; text-decoration: underline;">ISM</a> 
+    and 
+    <a href="https://aip.riken.jp/" target="_blank" style="color: #007a00; text-decoration: underline;">RIKEN AIP</a>.
+    My research focuses on understanding large (foundation) models, and I welcome students with backgrounds in 
+    machine learning, statistical physics, or mathematics.
+    Feel free to reach out to me.
+  </p>
+</div>
+
+  
   
 
 ### News
+
+
+* 10/2025 I joined [The Institute of Statistical Mathematics (ISM)](https://www.ism.ac.jp/index_e.html) as a project researcher.
 
 * 09/2025 Four papers are accepted by NeurIPS 2025, [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel](https://arxiv.org/abs/2506.11357), [Scaling Diffusion Transformers Efficiently via muP](https://arxiv.org/abs/2505.15270), [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://weihuang05.github.io/), [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?](https://weihuang05.github.io/)
 
