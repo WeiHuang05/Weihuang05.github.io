@@ -48,13 +48,13 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 10/2025 I joined [The Institute of Statistical Mathematics (ISM)](https://www.ism.ac.jp/index_e.html) as a project researcher.
 
-* 10/2025 Our team is honored to invite Prof. Yan Shuo Tan (National University of Singapore) to give an oral presentation on Statistical-Computational Trade-offs for Recursive Adaptive Partitioning Estimators. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/190467)
+* 10/2025 Our team is honored to invite Prof. Renjie Liao (UBC and Vector Institute) to give an oral presentation on SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/190467)
 
 * 09/2025 Four papers are accepted by NeurIPS 2025, [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel](https://arxiv.org/abs/2506.11357), [Scaling Diffusion Transformers Efficiently via muP](https://arxiv.org/abs/2505.15270), [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://weihuang05.github.io/), [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?](https://weihuang05.github.io/)
 
 * 09/2025 I will serve as an Area Chair for ICLR 2026 and AISTATS 2026.
 
-* 08/2025 Our team is honored to invite Prof. Renjie Liao (UBC and Vector Institute) to give an oral presentation on SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups. [Event details]()
+* 08/2025 Our team is honored to invite Prof. Yan Shuo Tan (National University of Singapore) to give an oral presentation on Statistical-Computational Trade-offs for Recursive Adaptive Partitioning Estimators. [Event details](https://aip.riken.jp/events/event_187040/)
 
 * 07/2025 I will serve as a Senior Program Committee for AAAI 2026.
 
