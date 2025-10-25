@@ -33,7 +33,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
     and 
     <a href="https://aip.riken.jp/" target="_blank" style="color: #2563eb; text-decoration: underline;">RIKEN AIP</a>.
     My research aims to understand the principles behind large (foundation) models.
-    Students with backgrounds in machine learning, statistical physics, or mathematics are especially encouraged to reach out.
+    Students with backgrounds in machine learning, statistical physics, or mathematics are especially encouraged to reach out. Apply here: [Google Form link](https://docs.google.com/forms/d/e/1FAIpQLSdAuaVV7K-83BTdSHIzDpoIqyN5N3W6NaoDGQIp_glao7ATxA/viewform?usp=dialog).
   </p>
 </div>
 
