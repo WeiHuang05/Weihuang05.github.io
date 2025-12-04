@@ -45,6 +45,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 12/2025 Our tutorial on "Feature Learning Theory" is out: https://delta-workshop.github.io/FeatureLearning-Tutorial/
+
+* 11/2025 One paper is accepted by AAAI 2026 **Oral**, [On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD](https://weihuang05.github.io/).
 
 * 10/2025 I joined [The Institute of Statistical Mathematics (ISM)](https://www.ism.ac.jp/index_e.html) as a project researcher.
 
