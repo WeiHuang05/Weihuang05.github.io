@@ -45,7 +45,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
-* 12/2025 Our tutorial on "Feature Learning Theory" is out: https://delta-workshop.github.io/FeatureLearning-Tutorial/
+* 01/2026 We are organizing 2nd workshop [Deep Generative Model in Machine Learning: Theory, Principle and Efficacy](https://delta-workshop.github.io/DeLTa2026/) at ICLR 2026! Submissions are welcome via [Openreview Site](https://openreview.net/group?id=ICLR.cc/2026/Workshop/DeLTa)!
+
+* 12/2025 Our tutorial on "Feature Learning Theory" is out: [Demystifying Optimization and Generalization of Deep Learning via Feature Learning Theory](https://delta-workshop.github.io/FeatureLearning-Tutorial/).
 
 * 11/2025 One paper is accepted by AAAI 2026 **Oral**, [On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD](https://weihuang05.github.io/).
 
