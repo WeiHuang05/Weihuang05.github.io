@@ -45,6 +45,12 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 03/2026 I am honored to receive the RIKEN BAIHO Award [理研梅峰賞](https://www.riken.jp/pr/news/2025/20250314_1/index.html). Great thanks to my advisor and all collaborators for their continued support and guidance!
+
+* 03/2026 We are organizing the workshop [Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning](https://fdgm-workshop.github.io/FDGM_ICML2026/) at ICML 2026! 
+
+* 02/2026 One paper is accepted by ICLR 2026, [https://openreview.net/forum?id=ZzG6oJ5ehI](Self-Harmony: Learning to Harmonize Self-Supervision and Self-Play in Test-Time Reinforcement Learning)
+
 * 01/2026 We are organizing 2nd workshop [Deep Generative Model in Machine Learning: Theory, Principle and Efficacy](https://delta-workshop.github.io/DeLTa2026/) at ICLR 2026! Submissions are welcome via [Openreview Site](https://openreview.net/group?id=ICLR.cc/2026/Workshop/DeLTa)!
 
 * 12/2025 Our tutorial on "Feature Learning Theory" is out: [Demystifying Optimization and Generalization of Deep Learning via Feature Learning Theory](https://delta-workshop.github.io/FeatureLearning-Tutorial/).
