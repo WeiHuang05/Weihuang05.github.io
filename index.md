@@ -45,6 +45,10 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 05/2026 Three papers accepted at ICML 2026.
+  
+* 04/2026 The 2nd DeLTa workshop at ICLR 2026 was a great success. Recording available [here](https://iclr.cc/virtual/2026/workshop/10000780).
+
 * 03/2026 I am honored to receive the RIKEN BAIHO Award [理研梅峰賞](https://www.riken.jp/pr/news/2025/20250314_1/index.html). Great thanks to my advisor and all collaborators for their continued support and guidance!
 
 * 03/2026 We are organizing the workshop [Foundations of Deep Generative Models: Understanding Memorization, Generalization, and Reasoning](https://fdgm-workshop.github.io/FDGM_ICML2026/) at ICML 2026! 
@@ -73,7 +77,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 05/2025 Our team is honored to invite Prof. Wuyang Chen to give an oral presentation on Building Machines That Understand the Physics. [Event details](https://aip.riken.jp/events/event_184833/)
 
-* 05/2025 Papers are accepted by ICML 2025, [Provable In-Context Vector Arithmetic via Retrieving Task Concepts](https://openreview.net/pdf?id=DbUmeNnNpt), [The Role of Label Noise in the Feature Learning Process](https://arxiv.org/pdf/2505.18909), [Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?](https://arxiv.org/pdf/2502.04725)
+* 05/2025 Seven Papers are accepted by ICML 2025, [Provable In-Context Vector Arithmetic via Retrieving Task Concepts](https://openreview.net/pdf?id=DbUmeNnNpt), [The Role of Label Noise in the Feature Learning Process](https://arxiv.org/pdf/2505.18909), [Can Diffusion Models Learn Hidden Inter-Feature Rules Behind Images?](https://arxiv.org/pdf/2502.04725), [GRU: Mitigating the trade-off between unlearning and retention for large language models](https://arxiv.org/pdf/2503.09117), [Multinoulli Extension: A Lossless Yet Effective Probabilistic Framework for Subset Selection over Partition Constraints](https://openreview.net/pdf?id=6XQOarhYF8), [Understanding the Forgetting of (Replay-based) Continual Learning via Feature Learning: Angle Matters](https://openreview.net/pdf?id=6UIer20oYA), [Test-Time Graph Neural Dataset Search With Generative Projection](https://openreview.net/pdf?id=824TCt6CkE)
 
 * 05/2025 Honored to be recognized as an [ICLR 2025 Notable Reviewer](https://iclr.cc/Conferences/2025/Reviewers). Grateful for the opportunity to contribute to the community.
 
