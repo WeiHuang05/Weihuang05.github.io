@@ -45,6 +45,9 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+
+* 05/2026 Delivered a guest lecture *An Introduction to Diffusion Models: Theory and Practice* at the University of Tokyo. Slides available [here](/files/diffusion_models_UTokyo_2026_WH.pdf).
+
 * 05/2026 Three papers accepted at ICML 2026.
   
 * 04/2026 The 2nd DeLTa workshop at ICLR 2026 was a great success. Recording available [here](https://iclr.cc/virtual/2026/workshop/10000780).
