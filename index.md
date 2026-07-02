@@ -45,6 +45,7 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 06/2026 One paper is accepted by Frontiers of Physics, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
 
 * 05/2026 Delivered a guest lecture *An Introduction to Diffusion Models: Theory and Practice* at the University of Tokyo. Slides available [here](/files/diffusion_models_UTokyo_2026_WH.pdf).
 
