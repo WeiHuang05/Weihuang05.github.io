@@ -40,18 +40,15 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 </div>
 
 
-  
-  
-
 ### News
 
-* 07/2026 One paper is accepted by COLM 2026, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
+* 07/2026 One paper is accepted by COLM 2026, [How transformers learn to plan via multi-token prediction](https://arxiv.org/pdf/2604.11912)
 
 * 06/2026 One paper is accepted by Frontiers of Physics, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
 
 * 05/2026 Delivered a guest lecture *An Introduction to Diffusion Models: Theory and Practice* at the University of Tokyo. Slides available [here](/files/diffusion_models_UTokyo_2026_WH.pdf).
 
-* 05/2026 Three papers accepted at ICML 2026. []()
+* 05/2026 Three papers accepted at ICML 2026. [Provable Benefit of Curriculum in Transformer Tree-Reasoning Post-Training](https://arxiv.org/pdf/2511.07372), [Spectral Gradient Descent Mitigates Anisotropy-Driven Misalignment: A Case Study in Phase Retrieval](https://arxiv.org/pdf/2601.22652), [Two Modalities Are Better Than One: Efficient Adversarial Purification via Multimodal Diffusion Models](https://openreview.net/pdf?id=qpno1WY4rt)
   
 * 04/2026 The 2nd DeLTa workshop at ICLR 2026 was a great success. Recording available [here](https://iclr.cc/virtual/2026/workshop/10000780).
 
