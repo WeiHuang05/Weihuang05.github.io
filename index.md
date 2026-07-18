@@ -45,11 +45,13 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 07/2026 One paper is accepted by COLM 2026, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
+
 * 06/2026 One paper is accepted by Frontiers of Physics, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
 
 * 05/2026 Delivered a guest lecture *An Introduction to Diffusion Models: Theory and Practice* at the University of Tokyo. Slides available [here](/files/diffusion_models_UTokyo_2026_WH.pdf).
 
-* 05/2026 Three papers accepted at ICML 2026.
+* 05/2026 Three papers accepted at ICML 2026. []()
   
 * 04/2026 The 2nd DeLTa workshop at ICLR 2026 was a great success. Recording available [here](https://iclr.cc/virtual/2026/workshop/10000780).
 
@@ -63,13 +65,13 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 * 12/2025 Our tutorial on "Feature Learning Theory" is out: [Demystifying Optimization and Generalization of Deep Learning via Feature Learning Theory](https://delta-workshop.github.io/FeatureLearning-Tutorial/).
 
-* 11/2025 One paper is accepted by AAAI 2026 **Oral**, [On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD](https://weihuang05.github.io/).
+* 11/2025 One paper is accepted by AAAI 2026 **Oral**, [On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD](https://arxiv.org/abs/2603.10397).
 
 * 10/2025 I joined [The Institute of Statistical Mathematics (ISM)](https://www.ism.ac.jp/index_e.html) as a project researcher.
 
 * 10/2025 Our team is honored to invite Prof. Renjie Liao (UBC and Vector Institute) to give an oral presentation on SymmetricDiffusers: Learning Discrete Diffusion on Finite Symmetric Groups. [Event details](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/190467)
 
-* 09/2025 Four papers are accepted by NeurIPS 2025, [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel](https://arxiv.org/abs/2506.11357), [Scaling Diffusion Transformers Efficiently via muP](https://arxiv.org/abs/2505.15270), [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://weihuang05.github.io/), [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?](https://weihuang05.github.io/)
+* 09/2025 Four papers are accepted by NeurIPS 2025, [Generalization Bound of Gradient Flow through Training Trajectory and Data-dependent Kernel](https://arxiv.org/abs/2506.11357), [Scaling Diffusion Transformers Efficiently via muP](https://arxiv.org/abs/2505.15270), [Trained Mamba Emulates Online Gradient Descent in In-Context Linear Regression](https://arxiv.org/abs/2509.23779), [How Does Label Noise Gradient Descent Improve Generalization in the Low SNR Regime?](https://arxiv.org/abs/2510.17526)
 
 * 09/2025 I will serve as an Area Chair for ICLR 2026 and AISTATS 2026.
 
