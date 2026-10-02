@@ -42,9 +42,13 @@ My office is located at the [University of Tokyo](https://www.u-tokyo.ac.jp/ja/i
 
 ### News
 
+* 09/2026 Two papers are accepted at NeurIPS 2026.
+
+* 08/2026 I am serving as a Program Chair and co-organizer of [CPAL 2027](https://cpal.cc/), to be held in Tokyo.
+
 * 07/2026 One paper is accepted by COLM 2026, [How transformers learn to plan via multi-token prediction](https://arxiv.org/pdf/2604.11912)
 
-* 06/2026 One paper is accepted by Frontiers of Physics, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://weihuang05.github.io/)
+* 06/2026 One paper is accepted by Frontiers of Physics, [Deep Learning Theory through the Lens of Statistical Physics: A Topical Review](https://journal.hep.com.cn/fop/EN/10.15302/frontphys.2027.011302)
 
 * 05/2026 Delivered a guest lecture *An Introduction to Diffusion Models: Theory and Practice* at the University of Tokyo. Slides available [here](/files/diffusion_models_UTokyo_2026_WH.pdf).
 
